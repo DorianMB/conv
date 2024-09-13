@@ -1,0 +1,8 @@
+{
+  "name": "Conv",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "57ec46c2"
+}
